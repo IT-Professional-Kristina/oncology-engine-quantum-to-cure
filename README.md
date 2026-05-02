@@ -36,7 +36,7 @@ In Project 2 we build the engine that treats it.
 - [x] Phase 1 — Quantum Mechanics & Key Vault *(Complete)*
 - [x] Phase 2 — Black Holes & Logic Apps *(Complete)*
 - [x] Phase 3 — Big Bang & Virtual Network  *(Complete)*
-- [ ] Phase 4 — Gravity & Virtual Machine
+- [x] Phase 4 — Gravity & Virtual Machine *(Complete)*
 
 ## Part of the "Photons to Patient" Series
 - Project 1: [From Photons to Patient](https://github.com/IT-Professional-Kristina/from-photons-to-patient)
